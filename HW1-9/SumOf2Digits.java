@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class SumOf2Digits {
 
-
     public static void main(String[] args) {
         Scanner calc = new Scanner (System.in);
         System.out.println("Please enter any two numbers, that You'd like to add together.");
