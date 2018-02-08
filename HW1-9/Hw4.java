@@ -10,9 +10,5 @@ public class Hw4 {
   int a = digit.nextInt();
   System.out.println("You just presed: "+ a);
 
-
-
-
-
     }
 }
