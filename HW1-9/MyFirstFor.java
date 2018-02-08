@@ -1,3 +1,4 @@
+//disply value from 0-100 by for
 public class MyFirstFor {
     public static void main(String[] args) {
         int i;
