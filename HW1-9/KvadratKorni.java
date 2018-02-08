@@ -5,7 +5,7 @@ public class KvadratKorni {
 
 
         public static void main(String[] args) {
-            System.out.println("Please, eneter thtee values for furthere counting of discriminante : \n");
+            System.out.println("Please, eneter thtee values for furthere counting of discriminante :");
             Scanner dgts = new Scanner(System.in);
             int a = (int)dgts.nextDouble();
             int b = (int)dgts.nextDouble();
