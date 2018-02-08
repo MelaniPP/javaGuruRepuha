@@ -10,7 +10,7 @@ public class KvadratKorni {
             int a = (int)dgts.nextDouble();
             int b = (int)dgts.nextDouble();
             int c = (int)dgts.nextDouble();
-            double d = b*b-4*a*c;
+            double d = b^2-4*a*c;
             if (d > 0){
             System.out.print(Math.sqrt(a));
                 System.out.print(Math.sqrt(b));
