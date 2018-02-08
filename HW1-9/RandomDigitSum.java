@@ -21,6 +21,4 @@ public class RandomDigitSum {
         System.out.println("Random # 1 is: "+rndNumb +" Random # 2 is :  "
                 +rndNumbTwo+ "Random # 3 is: "+rndNumbThree +" Sum is : "+b  );
     }
-
-
 }
