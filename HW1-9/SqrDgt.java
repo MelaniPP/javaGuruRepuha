@@ -12,7 +12,4 @@ public class SqrDgt {
         System.out.print("The answer is "+ pow(a,2));
 
     }
-
-
-
 }
